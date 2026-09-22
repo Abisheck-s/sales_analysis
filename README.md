@@ -1,2 +1,3 @@
 # sales_analysis
 using python ,power bi and sql showcasing the behaviour of customers 
+An end-to-end Data Analytics project focused on transforming raw data into actionable business insights. The project involved loading and exploring the dataset using Python and Pandas, performing EDA and data cleaning, analyzing data using SQL, and developing an interactive Power BI dashboard with key KPIs, trends, and visualizations. A detailed analytical report was prepared to communicate the findings, along with a professional presentation created using Gamma. The project demonstrates practical skills in Python, SQL, Power BI, data cleaning, data visualization, and business reporting.
